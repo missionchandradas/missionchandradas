@@ -34,10 +34,15 @@ Alongside my agency role, I work with international clients on Personal Branding
 
 Economics — Murari Chand (MC) College, Sylhet
 
+
 ## 🔗 Connect With Me
 
+- [Official Website](https://mission.kitoagency.com/)
 - [LinkedIn](https://www.linkedin.com/in/missiondas/)
-
+- [GitHub](https://github.com/missionchandradas)
+- [Facebook](https://www.facebook.com/profile.php?id=61560157431295)
+- [Instagram](https://www.instagram.com/missionchandradas/)
+  
 ## 🤝 Collaboration
 
 I'm interested in collaborating with founders, entrepreneurs, and professionals on Entity SEO, Google Knowledge Panels, Personal Branding, and Digital Authority Building.
